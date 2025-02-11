@@ -1,0 +1,6 @@
+com\weatherapp\myweatherapp\model\CityInfo$CurrentConditions.class
+com\weatherapp\myweatherapp\model\CityInfo$Days.class
+com\weatherapp\myweatherapp\MyweatherappApplication.class
+com\weatherapp\myweatherapp\repository\VisualcrossingRepository.class
+com\weatherapp\myweatherapp\model\CityInfo.class
+com\weatherapp\myweatherapp\service\WeatherService.class
